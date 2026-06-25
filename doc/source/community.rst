@@ -47,6 +47,6 @@ The following resources may still be helpful but are no longer actively updated.
 New users are encouraged to start with the **AI assistant** and **GitHub
 Discussions** listed above for the most current information.
 
-- `rsyslog video tutorials <http://www.rsyslog.com/Topic8.phtml>`_  
+- `rsyslog video tutorials <https://www.rsyslog.com/category/video-tutorials/>`_  
   These tutorials are slightly dated but still provide useful background on
   common rsyslog concepts and configurations.
